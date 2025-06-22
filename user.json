@@ -35,5 +35,11 @@
         "password": "10",
         "expiry": "2025-08-11",
         "hwid": []
+    },
+    {
+        "username": "kc",
+        "password": "1",
+        "expiry": "2052-11-07",
+        "hwid": []
     }
 ]
