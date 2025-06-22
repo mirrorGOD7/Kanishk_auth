@@ -1,8 +1,1 @@
-[
-    {
-        "username": "1",
-        "password": "1",
-        "expiry": "2025-07-22",
-        "hwid": []
-    }
-]
+[{"username":"1","password":"1","expiry":"2025-07-22","hwid":["36b17aad50e3fcb1exynos2100samsungp3sSP1A.210812.016"]}]
